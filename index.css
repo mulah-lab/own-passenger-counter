@@ -1,0 +1,45 @@
+body {
+  background-image: url(projekt1Count.jpg);
+  background-size: 150px, 100px, 100px, 100px;
+  background-color: rgb(14, 14, 14);
+  height: 100vh;
+}
+h1 {
+  font-size: 100px;
+  color: rgb(166, 30, 57);
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+h2 {
+  color: red;
+  font-size: 100px;
+}
+button {
+  font-size: 600px, 200px, 200px, 200px;
+  border: none;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  color: green;
+  background-color: black;
+  font-weight: bold;
+  width: 200px;
+  margin-bottom: 5px;
+  border-radius: 5px;
+}
+p {
+  color: red
+}
+#save-btn {
+  background-color: green;
+  color: black;
+}
+#erstesBildZahlen {
+    width: 700px;
+    opacity: 0.6;
+}
+
+.container {
+  max-width: 80%;
+  margin: auto;
+  border: 3px solid black;
+  border-radius: 10px;
+}
